@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\443662569a3bc76086f25747135dfccd\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\196fc8a03f6b3968a7c177ff5751e8a7\transformed\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\3c841d712adb311d7c6a6e1b48df8881\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\dc3ad94773ec6bb6c7f93f39217d63a1\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\2250081c8901db0fcc2d9577ac5f1701\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\642cf3e29e15283a0ac813899a04cbf1\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\4f2eae9137cee2176484a88b20d05026\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\f2e210569f63683669641a18fa10471c\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\c383ebe735f2e2d1fd53c6532f1e975c\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\5fa975974d956b9b3c8bd3bf53f05a21\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\4ecfb1250ce37dda189a89ded9c6a1d1\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:5:5-17:19
+	android:supportsRtl
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:11:9-16:20
+	android:name
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:11:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\443662569a3bc76086f25747135dfccd\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\443662569a3bc76086f25747135dfccd\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\196fc8a03f6b3968a7c177ff5751e8a7\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\196fc8a03f6b3968a7c177ff5751e8a7\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\3c841d712adb311d7c6a6e1b48df8881\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\3c841d712adb311d7c6a6e1b48df8881\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\dc3ad94773ec6bb6c7f93f39217d63a1\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\dc3ad94773ec6bb6c7f93f39217d63a1\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\2250081c8901db0fcc2d9577ac5f1701\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\2250081c8901db0fcc2d9577ac5f1701\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\642cf3e29e15283a0ac813899a04cbf1\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\642cf3e29e15283a0ac813899a04cbf1\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\4f2eae9137cee2176484a88b20d05026\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sevos\.gradle\caches\transforms-3\4f2eae9137cee2176484a88b20d05026\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\f2e210569f63683669641a18fa10471c\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\f2e210569f63683669641a18fa10471c\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\c383ebe735f2e2d1fd53c6532f1e975c\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\c383ebe735f2e2d1fd53c6532f1e975c\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\5fa975974d956b9b3c8bd3bf53f05a21\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\5fa975974d956b9b3c8bd3bf53f05a21\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\4ecfb1250ce37dda189a89ded9c6a1d1\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sevos\.gradle\caches\transforms-3\4ecfb1250ce37dda189a89ded9c6a1d1\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml

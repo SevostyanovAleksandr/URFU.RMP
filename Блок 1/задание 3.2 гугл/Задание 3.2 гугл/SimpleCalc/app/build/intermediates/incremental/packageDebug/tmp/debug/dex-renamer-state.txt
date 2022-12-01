@@ -1,0 +1,4 @@
+#Wed Oct 12 20:00:46 MSK 2022
+base.0=C\:\\Users\\sevos\\Downloads\\android-fundamentals-starter-apps-v2-master\\android-fundamentals-starter-apps-v2-master\\SimpleCalc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

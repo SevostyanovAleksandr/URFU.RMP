@@ -1,0 +1,11 @@
+com.example.android.SimpleCalc.app-appcompat-v7-27.1.1-0 C:\Users\sevos\.gradle\caches\transforms-3\443662569a3bc76086f25747135dfccd\transformed\appcompat-v7-27.1.1\res
+com.example.android.SimpleCalc.app-support-compat-27.1.1-1 C:\Users\sevos\.gradle\caches\transforms-3\4f2eae9137cee2176484a88b20d05026\transformed\support-compat-27.1.1\res
+com.example.android.SimpleCalc.app-support-core-ui-27.1.1-2 C:\Users\sevos\.gradle\caches\transforms-3\dc3ad94773ec6bb6c7f93f39217d63a1\transformed\support-core-ui-27.1.1\res
+com.example.android.SimpleCalc.app-pngs-3 C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\generated\res\pngs\debug
+com.example.android.SimpleCalc.app-resValues-4 C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\generated\res\resValues\debug
+com.example.android.SimpleCalc.app-rs-5 C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\generated\res\rs\debug
+com.example.android.SimpleCalc.app-mergeDebugResources-6 C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.SimpleCalc.app-mergeDebugResources-7 C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.SimpleCalc.app-merged_res-8 C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\intermediates\merged_res\debug
+com.example.android.SimpleCalc.app-debug-9 C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\debug\res
+com.example.android.SimpleCalc.app-main-10 C:\Users\sevos\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\res
