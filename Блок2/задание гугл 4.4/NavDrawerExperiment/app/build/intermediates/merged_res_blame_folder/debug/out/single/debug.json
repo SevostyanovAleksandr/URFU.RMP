@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/drawable-anydpi-v21_ic_menu_share.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-0:/drawable-anydpi-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-0:/drawable-anydpi-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/menu_main.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-0:/drawable-anydpi-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/layout_app_bar_main.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/drawable-anydpi-v21_ic_menu_manage.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-0:/drawable-anydpi-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/drawable-anydpi-v21_ic_menu_send.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-0:/drawable-anydpi-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-0:/drawable-anydpi-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/layout_nav_header_main.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-5:/layout_content_main.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-7:/layout/content_main.xml"
+    }
+]

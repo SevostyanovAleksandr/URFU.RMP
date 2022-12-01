@@ -1,0 +1,15 @@
+com.example.android.navdrawerexperiment.app-pngs-0 C:\AndroidProject\NavDrawerExperiment\app\build\generated\res\pngs\debug
+com.example.android.navdrawerexperiment.app-resValues-1 C:\AndroidProject\NavDrawerExperiment\app\build\generated\res\resValues\debug
+com.example.android.navdrawerexperiment.app-rs-2 C:\AndroidProject\NavDrawerExperiment\app\build\generated\res\rs\debug
+com.example.android.navdrawerexperiment.app-mergeDebugResources-3 C:\AndroidProject\NavDrawerExperiment\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.navdrawerexperiment.app-mergeDebugResources-4 C:\AndroidProject\NavDrawerExperiment\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.navdrawerexperiment.app-merged_res-5 C:\AndroidProject\NavDrawerExperiment\app\build\intermediates\merged_res\debug
+com.example.android.navdrawerexperiment.app-debug-6 C:\AndroidProject\NavDrawerExperiment\app\src\debug\res
+com.example.android.navdrawerexperiment.app-main-7 C:\AndroidProject\NavDrawerExperiment\app\src\main\res
+com.example.android.navdrawerexperiment.app-support-compat-27.1.1-8 C:\Users\sevos\.gradle\caches\transforms-3\3c8f593e71f9f8fd8cf9d0715d744443\transformed\support-compat-27.1.1\res
+com.example.android.navdrawerexperiment.app-appcompat-v7-27.1.1-9 C:\Users\sevos\.gradle\caches\transforms-3\4481ab7f469e08bd3305c57fa0c421e0\transformed\appcompat-v7-27.1.1\res
+com.example.android.navdrawerexperiment.app-design-27.1.1-10 C:\Users\sevos\.gradle\caches\transforms-3\5731c30f76650590c5cbd20b7426b16c\transformed\design-27.1.1\res
+com.example.android.navdrawerexperiment.app-recyclerview-v7-27.1.1-11 C:\Users\sevos\.gradle\caches\transforms-3\8bb865897c568860372b49de67d3df51\transformed\recyclerview-v7-27.1.1\res
+com.example.android.navdrawerexperiment.app-support-media-compat-27.1.1-12 C:\Users\sevos\.gradle\caches\transforms-3\9d093e6d46312cf2b92c5731fd6822fc\transformed\support-media-compat-27.1.1\res
+com.example.android.navdrawerexperiment.app-support-core-ui-27.1.1-13 C:\Users\sevos\.gradle\caches\transforms-3\9eccf78d2d41be9be7335a9a9f7389b1\transformed\support-core-ui-27.1.1\res
+com.example.android.navdrawerexperiment.app-transition-27.1.1-14 C:\Users\sevos\.gradle\caches\transforms-3\a1f03ec3e32c02f868c20de90d95a049\transformed\transition-27.1.1\res

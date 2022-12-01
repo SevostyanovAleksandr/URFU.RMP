@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:16:1-35:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\sevos\.gradle\caches\transforms-3\c34b20ec4767bf6891e508435c37dade\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\60cbbfbd098a1e6e3017a8011cf058ed\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e6e965499f0b265bc60e359079f2c7e5\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5e6bc02f51b37c43f2a71b6ea86e48a9\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\ac918199b64256c4dc85a814bda1704e\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\71aa8241f0e1cf64007b38d0b9c8b143\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\4fd8af2524abe6f22e50db567e0116d0\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\8fe32f89367c741685823e1db807b00d\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\0f0d4837f778caae167c9302e6d59068\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\9e3898eb9acf00cab30672b2d7590ac2\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\76a08ea676e98e053af6f7d3a4d8d6db\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e5e17950f2b32e82585995989d3fd266\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e2e99f3d60b61729322eecc88e4be6f4\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\952c81942f2c8148c4e58200227e9c83\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\f78256eca9cc11dcc20104e6af03ff8f\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5092a7779896ef3aee8c8e725bf8f726\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e94a51601d78349783cc506ae980ee86\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\ca7a27eb90a9765958ff48be6858232a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\4751d9dde54d04f0236bce9a05f51a84\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\23dc5e5e097598302b6df0ad48ab401d\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\52afb00757e133c217017efc52170bd9\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\d9f0647ea99469122e15dc3ffebad437\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\2bb51404546741d07dea4b9d461757a4\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\00df7a86e647edb47f13bb944ab0b5a4\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\b0b4c6960b77c335e2c74c3794db505b\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\76f6c8a695f0e6864e5e94a6cd7428e9\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\3f7cc6e8ae973da30bba957ea1bf775d\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:16:1-35:12
+	package
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:17:5-53
+		INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:16:1-35:12
+		INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:16:1-35:12
+		INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:16:11-69
+application
+ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:19:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\sevos\.gradle\caches\transforms-3\c34b20ec4767bf6891e508435c37dade\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\sevos\.gradle\caches\transforms-3\c34b20ec4767bf6891e508435c37dade\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5092a7779896ef3aee8c8e725bf8f726\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5092a7779896ef3aee8c8e725bf8f726\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e94a51601d78349783cc506ae980ee86\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e94a51601d78349783cc506ae980ee86\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5092a7779896ef3aee8c8e725bf8f726\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.android.fundamentals.powerreceiver.MainActivity
+ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\sevos\.gradle\caches\transforms-3\c34b20ec4767bf6891e508435c37dade\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\sevos\.gradle\caches\transforms-3\c34b20ec4767bf6891e508435c37dade\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\60cbbfbd098a1e6e3017a8011cf058ed\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\60cbbfbd098a1e6e3017a8011cf058ed\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e6e965499f0b265bc60e359079f2c7e5\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e6e965499f0b265bc60e359079f2c7e5\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5e6bc02f51b37c43f2a71b6ea86e48a9\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5e6bc02f51b37c43f2a71b6ea86e48a9\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\ac918199b64256c4dc85a814bda1704e\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\ac918199b64256c4dc85a814bda1704e\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\71aa8241f0e1cf64007b38d0b9c8b143\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\71aa8241f0e1cf64007b38d0b9c8b143\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\4fd8af2524abe6f22e50db567e0116d0\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\4fd8af2524abe6f22e50db567e0116d0\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\8fe32f89367c741685823e1db807b00d\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\8fe32f89367c741685823e1db807b00d\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\0f0d4837f778caae167c9302e6d59068\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\0f0d4837f778caae167c9302e6d59068\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\9e3898eb9acf00cab30672b2d7590ac2\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\9e3898eb9acf00cab30672b2d7590ac2\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\76a08ea676e98e053af6f7d3a4d8d6db\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\76a08ea676e98e053af6f7d3a4d8d6db\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e5e17950f2b32e82585995989d3fd266\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e5e17950f2b32e82585995989d3fd266\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e2e99f3d60b61729322eecc88e4be6f4\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e2e99f3d60b61729322eecc88e4be6f4\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\952c81942f2c8148c4e58200227e9c83\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\952c81942f2c8148c4e58200227e9c83\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\f78256eca9cc11dcc20104e6af03ff8f\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\f78256eca9cc11dcc20104e6af03ff8f\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5092a7779896ef3aee8c8e725bf8f726\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5092a7779896ef3aee8c8e725bf8f726\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e94a51601d78349783cc506ae980ee86\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\e94a51601d78349783cc506ae980ee86\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\ca7a27eb90a9765958ff48be6858232a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\ca7a27eb90a9765958ff48be6858232a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\4751d9dde54d04f0236bce9a05f51a84\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\4751d9dde54d04f0236bce9a05f51a84\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\23dc5e5e097598302b6df0ad48ab401d\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\23dc5e5e097598302b6df0ad48ab401d\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\52afb00757e133c217017efc52170bd9\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\52afb00757e133c217017efc52170bd9\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\d9f0647ea99469122e15dc3ffebad437\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\d9f0647ea99469122e15dc3ffebad437\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\2bb51404546741d07dea4b9d461757a4\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\2bb51404546741d07dea4b9d461757a4\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\00df7a86e647edb47f13bb944ab0b5a4\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\00df7a86e647edb47f13bb944ab0b5a4\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\b0b4c6960b77c335e2c74c3794db505b\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\b0b4c6960b77c335e2c74c3794db505b\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\76f6c8a695f0e6864e5e94a6cd7428e9\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sevos\.gradle\caches\transforms-3\76f6c8a695f0e6864e5e94a6cd7428e9\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\3f7cc6e8ae973da30bba957ea1bf775d\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\3f7cc6e8ae973da30bba957ea1bf775d\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProject\PowerReceiver\app\src\main\AndroidManifest.xml

@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~
+4  ~   Copyright (C) 2018 Google Inc.
+5  ~
+6  ~   Licensed under the Apache License, Version 2.0 (the "License");
+7  ~   you may not use this file except in compliance with the License.
+8  ~   You may obtain a copy of the License at
+9  ~
+10  ~        http://www.apache.org/licenses/LICENSE-2.0
+11  ~
+12  ~   Unless required by applicable law or agreed to in writing, software
+13  ~   distributed under the License is distributed on an "AS IS" BASIS,
+14  ~   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+15  ~   See the License for the specific language governing permissions and
+16  ~   limitations under the License.
+17  ~
+18-->
+19<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+20    package="com.android.example.notifymereview"
+21    android:versionCode="1"
+22    android:versionName="1.0" >
+23
+24    <uses-sdk
+25        android:minSdkVersion="14"
+25-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml
+26        android:targetSdkVersion="28" />
+26-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml
+27
+28    <application
+28-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:23:5-37:19
+29        android:allowBackup="true"
+29-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:24:9-35
+30        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+30-->[com.android.support:support-compat:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5092a7779896ef3aee8c8e725bf8f726\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:25:9-43
+33        android:label="@string/app_name"
+33-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:26:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:27:9-54
+35        android:supportsRtl="true"
+35-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:28:9-35
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme" >
+37-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:29:9-40
+38        <activity android:name="com.android.example.notifyme.MainActivity" >
+38-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:30:9-36:20
+38-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:30:19-75
+39            <intent-filter>
+39-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:31:13-35:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:32:17-69
+40-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:32:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:34:17-77
+42-->C:\AndroidProject\NotifyMe\app\src\main\AndroidManifest.xml:34:27-74
+43            </intent-filter>
+44        </activity>
+45    </application>
+46
+47</manifest>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.materialme.app-mergeDebugResources-3:/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\AndroidProject\\MaterialMe-Resource\\app\\src\\main\\res\\values-sw600dp-land\\integers.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "672",
+                        "endColumns": "49",
+                        "endOffsets": "717"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

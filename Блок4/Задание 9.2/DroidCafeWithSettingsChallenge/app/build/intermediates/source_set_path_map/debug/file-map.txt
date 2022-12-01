@@ -1,0 +1,16 @@
+com.example.android.droidcafeinput.app-resValues-0 C:\AndroidProject\DroidCafeWithSettingsChallenge\app\build\generated\res\resValues\debug
+com.example.android.droidcafeinput.app-rs-1 C:\AndroidProject\DroidCafeWithSettingsChallenge\app\build\generated\res\rs\debug
+com.example.android.droidcafeinput.app-mergeDebugResources-2 C:\AndroidProject\DroidCafeWithSettingsChallenge\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.droidcafeinput.app-mergeDebugResources-3 C:\AndroidProject\DroidCafeWithSettingsChallenge\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.droidcafeinput.app-merged_res-4 C:\AndroidProject\DroidCafeWithSettingsChallenge\app\build\intermediates\merged_res\debug
+com.example.android.droidcafeinput.app-debug-5 C:\AndroidProject\DroidCafeWithSettingsChallenge\app\src\debug\res
+com.example.android.droidcafeinput.app-main-6 C:\AndroidProject\DroidCafeWithSettingsChallenge\app\src\main\res
+com.example.android.droidcafeinput.app-design-28.0.0-7 C:\Users\sevos\.gradle\caches\transforms-3\07aced8ab2a45817a1af43e8dab48929\transformed\design-28.0.0\res
+com.example.android.droidcafeinput.app-support-compat-28.0.0-8 C:\Users\sevos\.gradle\caches\transforms-3\5092a7779896ef3aee8c8e725bf8f726\transformed\support-compat-28.0.0\res
+com.example.android.droidcafeinput.app-appcompat-v7-28.0.0-9 C:\Users\sevos\.gradle\caches\transforms-3\60cbbfbd098a1e6e3017a8011cf058ed\transformed\appcompat-v7-28.0.0\res
+com.example.android.droidcafeinput.app-cardview-v7-28.0.0-10 C:\Users\sevos\.gradle\caches\transforms-3\75e9dd8855afbffb5dc61e497ab03e59\transformed\cardview-v7-28.0.0\res
+com.example.android.droidcafeinput.app-transition-28.0.0-11 C:\Users\sevos\.gradle\caches\transforms-3\840e594acaafadd21c0d6580fb341098\transformed\transition-28.0.0\res
+com.example.android.droidcafeinput.app-coordinatorlayout-28.0.0-12 C:\Users\sevos\.gradle\caches\transforms-3\9e3898eb9acf00cab30672b2d7590ac2\transformed\coordinatorlayout-28.0.0\res
+com.example.android.droidcafeinput.app-support-media-compat-28.0.0-13 C:\Users\sevos\.gradle\caches\transforms-3\9ef6068d62289cf14bda1ac43d259088\transformed\support-media-compat-28.0.0\res
+com.example.android.droidcafeinput.app-recyclerview-v7-28.0.0-14 C:\Users\sevos\.gradle\caches\transforms-3\b20c5fca1ebf6c2dc3885170c6bcfa3e\transformed\recyclerview-v7-28.0.0\res
+com.example.android.droidcafeinput.app-constraint-layout-2.0.4-15 C:\Users\sevos\.gradle\caches\transforms-3\c34b20ec4767bf6891e508435c37dade\transformed\constraint-layout-2.0.4\res

@@ -1,0 +1,16 @@
+com.example.android.materialme.app-pngs-0 C:\AndroidProject\MaterialMe-Resource\app\build\generated\res\pngs\debug
+com.example.android.materialme.app-resValues-1 C:\AndroidProject\MaterialMe-Resource\app\build\generated\res\resValues\debug
+com.example.android.materialme.app-rs-2 C:\AndroidProject\MaterialMe-Resource\app\build\generated\res\rs\debug
+com.example.android.materialme.app-mergeDebugResources-3 C:\AndroidProject\MaterialMe-Resource\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.materialme.app-mergeDebugResources-4 C:\AndroidProject\MaterialMe-Resource\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.materialme.app-merged_res-5 C:\AndroidProject\MaterialMe-Resource\app\build\intermediates\merged_res\debug
+com.example.android.materialme.app-debug-6 C:\AndroidProject\MaterialMe-Resource\app\src\debug\res
+com.example.android.materialme.app-main-7 C:\AndroidProject\MaterialMe-Resource\app\src\main\res
+com.example.android.materialme.app-support-media-compat-26.1.0-8 C:\Users\sevos\.gradle\caches\transforms-3\0690a2e9785b193f70c686dd22d38c2f\transformed\support-media-compat-26.1.0\res
+com.example.android.materialme.app-transition-26.1.0-9 C:\Users\sevos\.gradle\caches\transforms-3\1d12495a8ced75c441225aa04fc4809d\transformed\transition-26.1.0\res
+com.example.android.materialme.app-cardview-v7-26.1.0-10 C:\Users\sevos\.gradle\caches\transforms-3\38b59b573dde00f0a21a1f83124c2acf\transformed\cardview-v7-26.1.0\res
+com.example.android.materialme.app-recyclerview-v7-26.1.0-11 C:\Users\sevos\.gradle\caches\transforms-3\6d2193258f56c8edbf0d2e7073c4f74e\transformed\recyclerview-v7-26.1.0\res
+com.example.android.materialme.app-appcompat-v7-26.1.0-12 C:\Users\sevos\.gradle\caches\transforms-3\a26bd26e62fd86b6f831218bf50d1b24\transformed\appcompat-v7-26.1.0\res
+com.example.android.materialme.app-constraint-layout-1.0.2-13 C:\Users\sevos\.gradle\caches\transforms-3\bf70d851c07b7536e79d19276fd22330\transformed\constraint-layout-1.0.2\res
+com.example.android.materialme.app-design-26.1.0-14 C:\Users\sevos\.gradle\caches\transforms-3\f6aa7850531ed2dd9f8ee9b3e8837a7b\transformed\design-26.1.0\res
+com.example.android.materialme.app-support-compat-26.1.0-15 C:\Users\sevos\.gradle\caches\transforms-3\f98fa558e6061340c816ac5e39fcffb9\transformed\support-compat-26.1.0\res

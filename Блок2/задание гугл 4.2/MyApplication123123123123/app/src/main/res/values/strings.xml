@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="intro_text">Что нибудь вкусненькое?</string>
+    <string name="donuts">Пончики глазированы и посыпаны конфетами..</string>
+    <string name="ice_cream_sandwiches">Бутерброды с мороженым имеют шоколадные вафли и ванильную начинку.</string>
+    <string name="froyo">FroYo - это замороженный йогурт премиум-класса для самостоятельного приготовления.</string>
+    <string name="donut_order_message">Вы заказали пончик.</string>
+    <string name="ice_cream_order_message">Вы заказали сэндвич с мороженым.</string>
+    <string name="froyo_order_message">Вы заказали FroYou.</string>
+    <string name="action_settings">Настройки</string>
+    <string name="submit">s</string>
+    <string name="name_label_text">Имя</string>
+    <string name="enter_name_hint">Введите своё имя</string>
+    <string name="address_label_text">Адрес</string>
+    <string name="address_label_hint">Введите aдрес</string>
+    <string name="phone_label_text">Телефон</string>
+    <string name="phone_label_hint"> Введите телефон</string>
+    <string name="enter_note_hint">Введите что нибудь интересное</string>
+    <string name="dilivery_vip">Доставка вип</string>
+    <string name="ground_delivery">Наземная доставка на следующий день</string>
+    <string name="courier_delivery">Курьерская служба в тот же день</string>
+    <string name="enter_phone_hint">Введите телефон</string>
+    <string-array name="labels_array">
+        <item>Дом</item>
+        <item>Рабочий</item>
+        <item>Моб.</item>
+    </string-array>
+
+</resources>

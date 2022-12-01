@@ -1,0 +1,4 @@
+#Wed Nov 30 15:51:31 MSK 2022
+base.0=C\:\\AndroidProject\\SimpleAsyncTask\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

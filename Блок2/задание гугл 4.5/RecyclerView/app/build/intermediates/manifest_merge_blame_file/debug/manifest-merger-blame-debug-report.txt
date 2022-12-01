@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2018 Google Inc.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.recyclerview"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="15"
+23-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="28" />
+24-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml
+25
+26    <application
+26-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:21:5-38:19
+27        android:allowBackup="true"
+27-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:22:9-35
+28        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+28-->[com.android.support:support-compat:28.0.0] C:\Users\sevos\.gradle\caches\transforms-3\5092a7779896ef3aee8c8e725bf8f726\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:23:9-43
+31        android:label="@string/app_name"
+31-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:24:9-41
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:25:9-54
+33        android:supportsRtl="true"
+33-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:26:9-35
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme" >
+35-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:27:9-40
+36        <activity
+36-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:28:9-37:20
+37            android:name="com.example.android.recyclerview.MainActivity"
+37-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:29:13-41
+38            android:label="@string/app_name"
+38-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:30:13-45
+39            android:theme="@style/AppTheme.NoActionBar" >
+39-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:31:13-56
+40            <intent-filter>
+40-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:32:13-36:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:33:17-69
+41-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:33:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:35:17-77
+43-->C:\AndroidProject\RecyclerView\app\src\main\AndroidManifest.xml:35:27-74
+44            </intent-filter>
+45        </activity>
+46    </application>
+47
+48</manifest>

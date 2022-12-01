@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable-ldpi_ic_reset.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-pngs-0:\\drawable-ldpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable-hdpi_ic_reset.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-pngs-0:\\drawable-hdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable-anydpi-v21_ic_reset.xml.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-pngs-0:\\drawable-anydpi-v21\\ic_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_cycling.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_cycling.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_swimming.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_swimming.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_running.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_running.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable-xxxhdpi_ic_reset.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-pngs-0:\\drawable-xxxhdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_bowling.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_bowling.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_baseball.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_baseball.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable-xxhdpi_ic_reset.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-pngs-0:\\drawable-xxhdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_soccer.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_soccer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_golf.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_golf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_tennis.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_tennis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_tabletennis.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_tabletennis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable-mdpi_ic_reset.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-pngs-0:\\drawable-mdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable-xhdpi_ic_reset.png.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-pngs-0:\\drawable-xhdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_basketball.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_basketball.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-merged_res-5:\\drawable_img_badminton.jpg.flat",
+        "source": "C:\\Users\\sevos\\.gradle\\daemon\\8.0-milestone-3\\com.example.android.materialme.app-main-7:\\drawable\\img_badminton.jpg"
+    }
+]

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.navdrawerexperiment.app-mergeDebugResources-3:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sevos\\.gradle\\caches\\transforms-3\\4481ab7f469e08bd3305c57fa0c421e0\\transformed\\appcompat-v7-27.1.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sevos\\.gradle\\caches\\transforms-3\\5731c30f76650590c5cbd20b7426b16c\\transformed\\design-27.1.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}

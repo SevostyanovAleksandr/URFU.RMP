@@ -1,0 +1,68 @@
+<!--
+  Copyright 2018 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Новости!</string>
+    <string name="title_placeholder">Заголовок</string>
+    <string name="news_placeholder">Новость</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+
+    <string-array name="sports_titles">
+        <item>Бейсбол</item>
+        <item>Бадминтон</item>
+        <item>Баскетбол</item>
+        <item>Боулинг</item>
+        <item>Куклинг</item>
+        <item>Гольф</item>
+        <item>Бег</item>
+        <item>Футбол</item>
+        <item>Плавание</item>
+        <item>Большой тенис</item>
+        <item>Тенис</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Вот некоторые новости Бейсбола !</item>
+        <item>Вот некоторые новости Банбинтона</item>
+        <item>Вот некоторые новости Баскетбола!</item>
+        <item>Вот некоторые новости Боулинга!</item>
+        <item>Вот некоторые новости Куклинг!</item>
+        <item>Вот некоторые новости Гольфа!</item>
+        <item>Вот некоторые новости Бега!</item>
+        <item>Вот некоторые новости Футбола!</item>
+        <item>Вот некоторые новости Плавания!</item>
+        <item>Вот некоторые новости Большого Тениса!</item>
+        <item>Вот некоторые новости Тениса!</item>
+    </string-array>
+
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+
+    </array>
+
+
+</resources>
